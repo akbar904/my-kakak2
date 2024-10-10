@@ -1,5 +1,13 @@
 # my-kakak2
 ## Progress Log
+🔄 [2024-10-11 06:46:58] Failed to deploy to Firebase. Deploy message: An error occurred during Firebase deployment: Error building Flutter web app: Error: Flutter failed to create file at "C:\Users\user\code\walturn\steve-backend-experiment\src\temp_workspaces\my-kakak2_my_app\src\.dart_tool\flutter_build\eac069756f6d4e7e28b23a43f5634e60\.filecache". The target device is full.
+FileSystemException: Cannot create file, path = 'C:\Users\user\code\walturn\steve-backend-experiment\src\temp_workspaces\my-kakak2_my_app\src\.dart_tool\flutter_build\eac069756f6d4e7e28b23a43f5634e60\.filecache' (OS Error: There is not enough space on the disk.
+, errno = 112)
+Free up space and try again.
+
+
+⏱️ Previous step took 3.42 seconds
+
 🔄 [2024-10-11 06:46:55] Deploying to Firebase
 
 ⏱️ Previous step took 1.66 seconds
